@@ -14,7 +14,7 @@ A high-performance, asynchronous CLI tool built with Python and Telethon. This u
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/telegram-cleaner.git](https://github.com/yourusername/telegram-cleaner.git)
+    git clone https://github.com/t4sn33m-s4h4t/Telegram-Cleaner.git
     cd telegram-cleaner
     ```
 
